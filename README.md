@@ -9,7 +9,7 @@ Contact: 22asdhillon@gmail.com
 
 ## 1. Information We Collect
 
-FleetGo may process information you provide, such as your name, phone number, license details, trip records, attendance, and expense entries, to support fleet management features.
+FleetGo may process information you provide, such as your email address, your name, phone number, license details, trip records, attendance, and expense entries, to support fleet management features.
 
 ## 2. Location Data
 
@@ -29,7 +29,7 @@ Personal information may be accessible to authorized fleet owners or managers wh
 
 ## 6. Your Rights
 
-You may contact the app support team to request access to, correction of, or deletion of your personal information. Some records may need to be retained for legitimate operational or legal reasons.
+You may email us at the address shown below to request access to, correction of, or deletion of your personal information. Some records may need to be retained for legitimate operational or legal reasons.
 
 ## 7. Data Security and Retention
 
@@ -37,4 +37,4 @@ Reasonable measures should be used to protect stored information. Data retention
 
 ## 8. Contact and Policy Updates
 
-This Privacy Policy may be updated when app features or practices change. For privacy questions or requests, contact the FleetGo support team through the available support channels.
+This Privacy Policy may be updated when app features or practices change. For privacy questions or requests, email the address shown below.
