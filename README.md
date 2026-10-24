@@ -29,7 +29,7 @@ Personal information may be accessible to authorized fleet owners or managers wh
 
 ## 6. Your Rights
 
-You may email us at the address shown below to request access to, correction of, or deletion of your personal information. Some records may need to be retained for legitimate operational or legal reasons.
+'You can delete your account and data at any time in the app: Settings, then Delete my account. You may also email us at the address shown below to request access to, correction of, or deletion of your personal information. Deleting your account permanently removes your fleet data and your login.',
 
 ## 7. Data Security and Retention
 
